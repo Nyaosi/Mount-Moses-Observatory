@@ -11,8 +11,6 @@ Finance
 
 Design and Implementation of Conditional Standing Orders Agency (CSOA) Application for Kenyan Banking and other financial Institutions
 
-Join on Github
-
 Problem Statement: Automated Remuneration
 
 In Kenya, when standing orders are enforced by banks to pay institutions periodically the following happens:
