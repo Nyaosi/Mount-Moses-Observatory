@@ -5,7 +5,9 @@ Mount Moses Observatory is the name given to projected globally scattered high a
 
 Keywords: mining 4i, global collaboration, science, technology, society
 
-# Introduction
+# Subsections
+
+Finance
 
 Design and Implementation of Conditional Standing Orders Agency (CSOA) Application for Kenyan Banking and other financial Institutions
 
