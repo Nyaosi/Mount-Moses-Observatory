@@ -24,7 +24,7 @@ Case 2 - Converting employees to subsequent employers:
 Many people in the world today seek employment because they want to generate capital for financing their business or research-related business. However, due to the artisanal nature of African industry, many entrepreneurs are disconnected from corporate finance. This is clearly illustrated online by large-scale adoption of informal social communication media like whatsapp and facebook by majority of enterprising Africans whereas the corporate is locked up on linkedin and email. A common meeting point of people from these two worlds is telephone conversation.
 
 If for example, government employees can access facilities that allow them to pay artisanal contractors through reliable standing orders, which deduct from their salary accounts, many problems in the current financial system can be eliminated.
-Justification of Opportunity: African AI Development
+Justification of Opportunity: African AI Development - https://mountmosesobservatory.wordpress.com/2021/09/06/artificial-intelligence/
 
 App.WhoAmI: “My problem is intertwined with the health sector which is subsequently intertwined with the financial sector which has intertwined the food production, nutritional support and associated social interaction and health-oriented generational support sectors.”
 
