@@ -26,7 +26,7 @@ Many people in the world today seek employment because they want to generate cap
 If for example, government employees can access facilities that allow them to pay artisanal contractors through reliable standing orders, which deduct from their salary accounts, many problems in the current financial system can be eliminated.
 Justification of Opportunity: African AI Development - https://mountmosesobservatory.wordpress.com/2021/09/06/artificial-intelligence/
 
-App.WhoAmI: “My problem is intertwined with the health sector which is subsequently intertwined with the financial sector which has intertwined the food production, nutritional support and associated social interaction and health-oriented generational support sectors.”
+App.WhoAmI: “My problem is intertwined with the health sector which is subsequently intertwined with the financial sector which has intertwined the food production, nutritional support and associated social interaction and health-oriented cross-generational support sectors.”
 
 App.Purpose: Supporting human health through sustainable financial engineering
 
